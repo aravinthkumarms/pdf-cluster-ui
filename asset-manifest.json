@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pdf-cluster-ui/static/css/main.0aca340e.css",
+    "main.js": "/pdf-cluster-ui/static/js/main.66167682.js",
+    "index.html": "/pdf-cluster-ui/index.html",
+    "main.0aca340e.css.map": "/pdf-cluster-ui/static/css/main.0aca340e.css.map",
+    "main.66167682.js.map": "/pdf-cluster-ui/static/js/main.66167682.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0aca340e.css",
+    "static/js/main.66167682.js"
+  ]
+}
